@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/spritle/static/css/main.44f8b8b5.css",
+    "main.js": "/spritle/static/js/main.84195a8f.js",
+    "static/js/787.3f3d35dd.chunk.js": "/spritle/static/js/787.3f3d35dd.chunk.js",
+    "static/media/passIncorrect.png": "/spritle/static/media/passIncorrect.c73619c9b0c2be0ae6bb.png",
+    "static/media/userAlreadyExisted.png": "/spritle/static/media/userAlreadyExisted.1b1a4dd46565d12e0861.png",
+    "static/media/404-pages.png": "/spritle/static/media/404-pages.d295eeb315ee456e633f.png",
+    "static/media/401.png": "/spritle/static/media/401.3d2ce01148d66a60223e.png",
+    "index.html": "/spritle/index.html",
+    "main.44f8b8b5.css.map": "/spritle/static/css/main.44f8b8b5.css.map",
+    "main.84195a8f.js.map": "/spritle/static/js/main.84195a8f.js.map",
+    "787.3f3d35dd.chunk.js.map": "/spritle/static/js/787.3f3d35dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.84195a8f.js"
+  ]
+}
